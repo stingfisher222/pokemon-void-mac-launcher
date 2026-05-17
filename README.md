@@ -108,7 +108,7 @@ If you'd rather assemble the launcher yourself instead of trusting a prebuilt on
 
 - **Pokémon Void** — see the official Discord
 - **MKXP-Z** runtime — <https://github.com/mkxp-z/mkxp-z> (GPL v2+)
-- **Mac packaging** — Miguel ([@stingfisher222](https://github.com/stingfisher222)), with help from Claude AI (Anthropic) for debugging the three MKXP-Z build bugs and putting the launcher together. Not affiliated with the Pokémon Void developers.
+- **Mac packaging** — ([@stingfisher222](https://github.com/stingfisher222)), with help from Claude AI (Anthropic) for debugging the three MKXP-Z build bugs and putting the launcher together. Not affiliated with the Pokémon Void developers.
 
 ---
 
