@@ -112,6 +112,9 @@ If you'd rather assemble the launcher yourself instead of trusting a prebuilt on
 
 ---
 
-## License
+## License & third-party notices
 
-This packaging is licensed GPL v3+ to remain compatible with bundled MKXP-Z (GPL v2+). See [`LICENSE`](LICENSE).
+This launcher is licensed **GPL v3 or later** to remain compatible with the bundled MKXP-Z runtime (GPL v2+). See [`LICENSE`](LICENSE) and [`NOTICE.md`](NOTICE.md) for full third-party attributions, including the exact upstream commit of MKXP-Z that the bundled binary corresponds to, and the GPL v2 §3(b) written offer of source code.
+
+- Full MKXP-Z license text: [`third-party/mkxp-z/COPYING`](third-party/mkxp-z/COPYING)
+- MKXP-Z upstream README at the commit shipped: [`third-party/mkxp-z/README.upstream.md`](third-party/mkxp-z/README.upstream.md)
