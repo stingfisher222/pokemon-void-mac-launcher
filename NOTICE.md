@@ -66,7 +66,7 @@ The following files in this repository are original work licensed under **GPL v3
 - `NOTICE.md` (this file)
 - `LICENSE`
 
-Copyright © 2026 Miguel ([@stingfisher222](https://github.com/stingfisher222)), with debugging assistance from Claude AI (Anthropic).
+Copyright © 2026 [@stingfisher222](https://github.com/stingfisher222), with debugging assistance from Claude AI (Anthropic).
 
 ---
 

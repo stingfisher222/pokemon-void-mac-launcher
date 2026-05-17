@@ -66,4 +66,4 @@ macOS puede decir *"no se puede abrir porque no se puede verificar el desarrolla
 
 - **Pokémon Void** — ver Discord oficial
 - **MKXP-Z** — <https://github.com/mkxp-z/mkxp-z> (GPL v2+)
-- **Packaging para Mac** — Miguel ([@stingfisher222](https://github.com/stingfisher222)), con ayuda de Claude AI (Anthropic) para debuggear los tres bugs de MKXP-Z y armar el launcher. Sin relación con los devs de Pokémon Void.
+- **Packaging para Mac** — [@stingfisher222](https://github.com/stingfisher222), con ayuda de Claude AI (Anthropic) para debuggear los tres bugs de MKXP-Z y armar el launcher. Sin relación con los devs de Pokémon Void.
