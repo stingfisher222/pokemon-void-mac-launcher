@@ -1,0 +1,17 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+This launcher packaging — including README.md, LEEME.md, mkxp.json, Install.command,
+and the patches/ directory — is licensed under the GNU General Public License v3.0
+or any later version, to remain compatible with the bundled MKXP-Z runtime
+(GPL v2+, Copyright (C) Amaryllis Kulla and contributors,
+see https://github.com/mkxp-z/mkxp-z).
+
+The Pokémon Void game itself is NOT part of this repository and is NOT redistributed
+here. Users must obtain the game from its official source.
+
+Full GPL v3 license text: https://www.gnu.org/licenses/gpl-3.0.txt
